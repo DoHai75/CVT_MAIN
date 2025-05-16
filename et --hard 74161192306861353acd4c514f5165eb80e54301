@@ -1,0 +1,386 @@
+[33mcommit 74161192306861353acd4c514f5165eb80e54301[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ubuntu <ubuntu@ip-172-31-45-127.ap-southeast-1.compute.internal>
+Date:   Fri May 16 08:42:00 2025 +0000
+
+    Initial commit
+
+[33mcommit 76cad78f6c2492f48508e9567dc93b0f27f370f1[m
+Author: Ubuntu <ubuntu@ip-172-31-45-127.ap-southeast-1.compute.internal>
+Date:   Fri May 16 07:54:15 2025 +0000
+
+    Update requirements.txt with current packages
+
+[33mcommit 0bf504673c9f9fc3a85130da5759ce1525647959[m
+Author: Ubuntu <ubuntu@ip-172-31-45-127.ap-southeast-1.compute.internal>
+Date:   Wed May 14 07:56:05 2025 +0000
+
+    update
+
+[33mcommit 23a0cb8ddc9d5823d3869e37193e220b3f489eea[m
+Author: Ubuntu <ubuntu@ip-172-31-45-127.ap-southeast-1.compute.internal>
+Date:   Mon May 12 09:54:59 2025 +0000
+
+    first commit
+
+[33mcommit 6a36b7f3db0e04d796b9964a3b6dc89367022a69[m
+Author: Ubuntu <ubuntu@ip-172-31-45-127.ap-southeast-1.compute.internal>
+Date:   Mon May 12 09:51:49 2025 +0000
+
+    Thông điệp commit mô tả thay đổi
+
+[33mcommit fc65aec8eb97ff5410936a91c01d127e2cadff32[m
+Author: Ubuntu <ubuntu@ip-172-31-45-127.ap-southeast-1.compute.internal>
+Date:   Mon May 12 09:36:29 2025 +0000
+
+    first commit
+
+[33mcommit 515c729de23ffeb715c3b834117dc97f891e5065[m
+Author: Zheng-Chong <chongzheng98@gmail.com>
+Date:   Mon Feb 24 09:03:50 2025 +0000
+
+    Add new update for CatV2TON project in README.md
+
+[33mcommit a2c5342acbc045dce9b511bf0715ddb2ce00ef3f[m
+Author: Zheng-Chong <chongzheng98@gmail.com>
+Date:   Thu Feb 20 08:38:31 2025 +0000
+
+    Update README.md with new ArXiv paper version
+
+[33mcommit 228c2094193207e35b3e9862096779145c0ea5ee[m
+Author: Zheng Chong <chongzheng98@gmail.com>
+Date:   Fri Jan 24 15:01:37 2025 +0800
+
+    Update README.md
+
+[33mcommit eaf77c2165638f6b387abf193d1f720257bcdb0c[m
+Author: Zheng Chong <chongzheng98@gmail.com>
+Date:   Fri Jan 24 15:00:48 2025 +0800
+
+    Update README.md
+
+[33mcommit e8cc336657ba4a799c557bd680e099cecf9adc74[m
+Author: Zheng-Chong <chongzheng98@gmail.com>
+Date:   Fri Dec 20 15:16:11 2024 +0800
+
+    Update README.md to include the release note for the initial code of the gradio app for CatVTON-FLUX, marking it as a starting point for future development.
+
+[33mcommit 16596bd1750b2000c6fcd753d3a0d03b5ec8158c[m
+Author: Zheng-Chong <chongzheng98@gmail.com>
+Date:   Fri Dec 20 15:08:47 2024 +0800
+
+    Add width and height arguments to image processing; refactor submit function and Gradio interface for CatVTON-FLUX
+
+[33mcommit 3b2d1b4050a90e930d406e3f4fdf37b9745d4200[m
+Author: Zheng-Chong <chongzheng98@gmail.com>
+Date:   Thu Dec 19 19:57:45 2024 +0800
+
+    Update README.md to reflect the release of CatVTON-FLUX, including new links and a note on upcoming code release.
+
+[33mcommit 01649c34af337247f12573b61bcb63fb8c99b1ba[m
+Author: Zheng-Chong <chongzheng98@gmail.com>
+Date:   Thu Dec 19 19:54:37 2024 +0800
+
+    Update README.md with new release information and modify requirements.txt to upgrade dependencies and include new packages
+
+[33mcommit 9d8b1dcd1d8436a741c98cd683754b6d4ac0d005[m
+Author: Zheng-Chong <chongzheng98@gmail.com>
+Date:   Tue Nov 26 11:29:47 2024 +0800
+
+    Update README.md
+
+[33mcommit fb841b0bf115e1e988d0b3e6268dad10b5f9b508[m
+Author: Zheng-Chong <chongzheng98@gmail.com>
+Date:   Mon Oct 21 11:38:02 2024 +0800
+
+    Refactor UNet2DConditionModel initialization in CatVTONPipeline
+
+[33mcommit e11751accab4a4045e97a7d740fc7e683e86e845[m
+Author: Zheng-Chong <chongzheng98@gmail.com>
+Date:   Mon Oct 21 11:34:35 2024 +0800
+
+    Refactor .gitignore file
+
+[33mcommit 786aa5449d2e8dc5785c773f56165c8a0857942c[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Mon Oct 21 02:32:46 2024 +0000
+
+    Refactor .gitignore file
+
+[33mcommit 560822af9b5dee1e3acad3af97220ac6197acffc[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Thu Oct 17 08:48:10 2024 +0000
+
+    Update README.md
+
+[33mcommit 86a1ccc87f3365505ae074a2d5e3254c6de427fe[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Thu Oct 17 08:47:44 2024 +0000
+
+    Update README.md
+
+[33mcommit ae60bd38d421b24fad0866e7265e355ccd85d45d[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Thu Oct 10 10:25:00 2024 +0000
+
+    Update README.md
+
+[33mcommit 3b795364a4d2f3b5adb365f39cdea376d20bc53c[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Tue Sep 3 08:13:12 2024 +0000
+
+    Update default base model path
+
+[33mcommit 96c88f9999183b54a5123b7b4b9c00e3bf4167dc[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Tue Aug 13 10:26:28 2024 +0000
+
+    chore: Update READEME
+
+[33mcommit 59522b622ede25dc0b8e0a3f6a70fe43500ed5b6[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Tue Aug 13 10:20:37 2024 +0000
+
+    chore: Update requirements.txt with new dependencies
+
+[33mcommit 830d2cf9af2f845c7eed935a6822994a482f9ec2[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Tue Aug 13 10:12:31 2024 +0000
+
+    chore: localize densepose $ schp
+
+[33mcommit 999bdbe81e6008a3f5749af7c1e0b0fa3d21b48e[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Tue Aug 13 01:49:49 2024 +0000
+
+    chore: Update preprocess_agnostic_mask.py
+
+[33mcommit f0c24c80b14b0aea60560280d4018b13fc529821[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Tue Aug 13 01:49:29 2024 +0000
+
+    chore: Add script to preprocess agnostic masks for DressCode dataset
+
+[33mcommit fe6be79b3300e9eaa8952c9ea5f1e43a275f7a33[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Sat Aug 10 09:59:27 2024 +0000
+
+    chore: Add ZeroGPU HuggingFace Space link
+
+[33mcommit 5bad478259309c1d78c8836c55db6dd97469a2c2[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Fri Aug 9 05:49:08 2024 +0000
+
+    chore: fix link
+
+[33mcommit fc2206875fb7ad13a6d6abfca3fccc366bbb0453[m
+Merge: 9ccb523 5a72c5d
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Fri Aug 9 05:47:21 2024 +0000
+
+    Merge branch 'main' of https://github.com/Zheng-Chong/CatVTON into main
+
+[33mcommit 9ccb5235ee793c134b81f6c1eb3aeb9e275dda70[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Fri Aug 9 05:38:36 2024 +0000
+
+    chore: update eval.py
+
+[33mcommit 3d8b4d6452050600eeedc8eb3b0fb498dcaa1d70[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Fri Aug 9 05:35:33 2024 +0000
+
+    chore: Add evaluation script for image metrics
+
+[33mcommit 810b4155b307a4d951307f498f9e52e66e3d3166[m
+Author: ZhengChong <chongzheng98@gmail.com>
+Date:   Fri Aug 9 05:32:47 2024 +0000
+
+    chore: add eval.py
+
+[33mcommit 5a72c5d28ea4b1afcdf78759fc8846f886dd5a92[m
+Merge: aa0ec10 065825d
+Author: Zheng Chong <chongzheng98@gmail.com>
+Date:   Mon Aug 5 18:31:09 2024 +0800
+
+    Merge pull request #21 from nxcro241/patch-1
+    
+    Spelling/syntax error
+
+[33mcommit 065825d58dfcd0555cea7fcbbecb5f1676ad7b08[m
+Author: nxcro241 <145079326+nxcro241@users.noreply.github.com>
+Date:   Mon Aug 5 06:25:15 2024 -0400
+
+    Spelling/syntax error
+
+[33mcommit aa0ec1017e9711297e7f422d2dd9edf43d43a2b3[m
+Merge: 5c3f728 33340f3
+Author: Zheng Chong <chongzheng98@gmail.com>
+Date:   Mon Aug 5 10:14:44 2024 +0800
+
+    Merge pull request #16 from eltociear/patch-1
+    
+    docs: update README.md
+
+[33mcommit 33340f3edffe4e170c3616927eb5c4aef99118ae[m
+Author: Ikko Eltociear Ashimine <eltociear@gmail.com>
+Date:   Mon Aug 5 01:46:08 2024 +0900
+
+    docs: update README.md
+    
+    workfow -> workflow
+
+[33mcommit 5c3f728d8322c1b71ffd449e095fb6cc9cea3203[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Wed Jul 31 07:30:49 2024 +0000
+
+    chore: Update SafetyCheck
+
+[33mcommit a24746c215790bd1b579a4ce879aa67abd00578e[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Wed Jul 31 03:34:21 2024 +0000
+
+    chore: Add SafetyChecker.
+
+[33mcommit 87f1d9818bd30abe9dfe0e84552f73441708b5fa[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Tue Jul 30 12:11:39 2024 +0000
+
+    chore: Update README.md
+
+[33mcommit 18bdeb522f1d370d9089e914e734e1a9e15d4c7a[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Mon Jul 29 06:39:00 2024 +0000
+
+    chore: Update README.md with improved ComfyUI deployment instructions
+
+[33mcommit 9d9ca220a1e18f10af563f339c933d4c7a0c2409[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Sat Jul 27 14:29:53 2024 +0000
+
+    chore: Update INSTALL.md with CatVTOn and ComfyUI deployment instructions
+
+[33mcommit 894e9149454166361fe9654461f7e76c975d88a5[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Sat Jul 27 12:40:45 2024 +0000
+
+    chore: Update README.md with ComfyUI deployment instructions
+
+[33mcommit b1f673643ad98aec8486a003fc63849894faf754[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Sat Jul 27 11:29:53 2024 +0000
+
+    chore: Update Installation Guide link in README.md
+
+[33mcommit 5779e9c6b808463f6a741601922f8a07d7c8963c[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Fri Jul 26 03:04:33 2024 +0000
+
+    chore: Update README.md
+
+[33mcommit 60f283baf535a0d3c810772d35ce943127b350e8[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Wed Jul 24 13:48:40 2024 +0000
+
+    Update README.md
+
+[33mcommit 585c541830d8da1257a5044dba5ec7ba0404b841[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Wed Jul 24 10:47:32 2024 +0000
+
+    chore: Update webpage links in README and app.py
+
+[33mcommit 8cbf53b7ad3a13ca4f994f380fe692a0398c0f7f[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Wed Jul 24 10:06:16 2024 +0000
+
+    Update README.md
+
+[33mcommit 713acc15f150ca1fe97a0d84247195d8e0b22f11[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Wed Jul 24 09:58:47 2024 +0000
+
+    chore: Update index.html
+
+[33mcommit d5489f296d5fcf86f0b4199a20069b9443438392[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Wed Jul 24 09:54:57 2024 +0000
+
+    chore: delete PointRend project documentation
+
+[33mcommit 95a919e2b61e7619c64c38cec87098df7ed61b92[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Wed Jul 24 09:47:23 2024 +0000
+
+    chore: Update index.html
+
+[33mcommit 4e594070480f8941fb6ba8570345a0cb14f8b5bb[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Wed Jul 24 09:33:11 2024 +0000
+
+    chore: Update CSS and JS files for Webpage
+
+[33mcommit 984c6fd9774530c9d80a64c67b294d8adb0f594b[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Wed Jul 24 08:48:50 2024 +0000
+
+    chore: Update .gitignore and README.md files
+
+[33mcommit ca2639980885e98d869aee440701df8a26598db8[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Wed Jul 24 02:30:05 2024 +0000
+
+    chore: Update README.md with ArXiv
+
+[33mcommit 446279a25e5bd063e97d8c60a54503f8cabfc124[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Tue Jul 23 05:57:49 2024 +0000
+
+    chore: Update installation guide and requirements.txt
+
+[33mcommit bb344d88ff444e4c7d5d61e6b14a9d6ddfae7f4c[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Mon Jul 22 10:47:43 2024 +0000
+
+    chore: Add gradio library to requirements.txt
+
+[33mcommit 1f486df5bb0d2df34bd8a5ae9d7351a6cd5460d0[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Mon Jul 22 10:43:53 2024 +0000
+
+    Update App Code
+
+[33mcommit 091c75a1b9a99f901c2dc7c9785e14120c5e1575[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Mon Jul 22 01:53:52 2024 +0000
+
+    chore: Update dependencies in requirements.txt
+
+[33mcommit 7be2858619a78148f86e6010803a8b2d51780b17[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Sun Jul 21 14:04:48 2024 +0000
+
+    Updata inference code
+
+[33mcommit dc70c66717199fa6936d8434a6c9bbe0a584149e[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Thu Jul 11 03:18:05 2024 +0000
+
+    Update README.md
+
+[33mcommit 31507ac8a4f5513559a666bafb7d3f1e6bdec584[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Thu Jul 11 03:12:16 2024 +0000
+
+    Update README.md
+
+[33mcommit 3a750583042575ffc42308f1686911925f9b83a5[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Thu Jul 11 03:00:24 2024 +0000
+
+    Update README.md with online demo link
+
+[33mcommit a3b2831a8abbd3fb68a1bf3148154082fb2a9ee1[m
+Author: ZhengChong <chongzheng98@gamil.com>
+Date:   Thu Jul 11 02:21:30 2024 +0000
+
+    first commit
